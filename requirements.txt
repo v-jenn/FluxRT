@@ -7,4 +7,5 @@ accelerate
 safetensors>=0.4.0
 optimum-quanto
 peft
+pyvirtualcam
 pyside6
