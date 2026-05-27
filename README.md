@@ -56,7 +56,7 @@ Example 2: interactive paint-style app with iterative image updates.
 
 Ensure you have **git**, **git lfs** and **conda** installed. /////////Git → descargas el código de un proyecto
 Git LFS → descarga los modelos grandes que trae ese proyecto
-Conda → creas el entorno con las dependencias correctas para ejecutarlo////////////
+Conda → creas el entorno con las dependencias correctas para ejecutarlo//////////// to install miniconda: https://www.anaconda.com/download/success (suficiente para usar el gestor de CONDA)
 
 CUDA **12.8** is recommended. 
 
