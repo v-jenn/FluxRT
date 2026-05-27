@@ -54,7 +54,9 @@ Example 2: interactive paint-style app with iterative image updates.
 
 # Quick Start
 
-Ensure you have **git**, **git lfs** and **conda** installed.
+Ensure you have **git**, **git lfs** and **conda** installed. /////////Git → descargas el código de un proyecto
+Git LFS → descarga los modelos grandes que trae ese proyecto
+Conda → creas el entorno con las dependencias correctas para ejecutarlo////////////
 
 CUDA **12.8** is recommended. 
 
