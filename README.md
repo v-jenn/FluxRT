@@ -368,7 +368,7 @@ This results in:
 
 #### Performance Comparison
 
-Below is a comparison against the baseline (resolution: 576 × 320, 2 inference steps per frame, interpolation ×4):
+Below is a comparison against the baseline (resolution: 576 × 320, 2 inference steps per frame, interpolation ×4): //para cambiar la resolucion, activar o desactivar la imagen de referencia, entrar al editable con:// notepad C:\FluxRT\configs\config_with_reference.json // Desde el conda
 
 | Dynamic Area | Baseline (No Cache)                                     | With Spatial Cache                                    |
 | ------------ | ------------------------------------------------------- | ----------------------------------------------------- |
